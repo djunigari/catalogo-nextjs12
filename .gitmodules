@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = ./backend
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
+[submodule "admin-frontend"]
+	path = admin-frontend
+	url = ./admin-frontend
+[submodule "user-frontend"]
+	path = user-frontend
+	url = ./user-frontend
