@@ -1,12 +1,12 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/djunigari/backend.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/djunigari/frontend.git
 [submodule "admin-frontend"]
 	path = admin-frontend
-	url = ./admin-frontend
+	url = https://github.com/djunigari/admin-frontend.git
 [submodule "user-frontend"]
 	path = user-frontend
-	url = ./user-frontend
+	url = https://github.com/djunigari/user-frontend.git
